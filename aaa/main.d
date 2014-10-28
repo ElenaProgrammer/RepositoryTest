@@ -90,5 +90,5 @@ void main(string[] args)
  //    trace(m, cast(Invalid)m !is null ? " - invalid" : null);
   }
  trace("XXXРусскийQQQ");
- writeln(1237775678, "string");
+ writeln(123777567891011, "string");
 }
