@@ -90,5 +90,9 @@ void main(string[] args)
  //    trace(m, cast(Invalid)m !is null ? " - invalid" : null);
   }
  trace("XXXРусскийQQQ");
- writeln(01234567);
+<<<<<<< HEAD
+ writeln(01237774567);
+=======
+
+>>>>>>> mybranch
 }
