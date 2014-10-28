@@ -91,6 +91,6 @@ void main(string[] args)
   }
  trace("XXXРусскийQQQ");
 
- writeln(01237774567, -1,-2,-3);
+ writeln(01237774567, -1,-2,-3,-4);
 
 }
